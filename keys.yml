@@ -1,0 +1,10 @@
+---
+DNS:
+  name: DNS
+  key: MfaSecretKeyDNS
+WEB:
+  name: WEB
+  key: MfaSecretKeyWEB
+DX:
+  name: DX
+  key: MfaSecretKeyDXX
