@@ -18,7 +18,7 @@ DX 920731
 $ python ./auth.py --name DNS
 031876
 ```
-## Appendix
+
 ```
 $ scripts_require_MFA.sh < python ./auth.py --name DNS
 ```
